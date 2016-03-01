@@ -1,0 +1,22 @@
+{
+  "name": "njerrywerry",
+  "version": "0.0.0",
+  "homepage": "https://github.com/njerrywerry/rails-angular",
+  "authors": [
+    "Sylvia <sylviakieha@gmail.com>"
+  ],
+  "description": "test",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-ui-router": "~0.2.18"
+  }
+}
