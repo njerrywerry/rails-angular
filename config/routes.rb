@@ -1,3 +1,4 @@
 Rails.application.routes.draw do
-  root 'task#index'
+  root :to => "task#index"
+  get "*unmatched_route" => "task#index"
 end
